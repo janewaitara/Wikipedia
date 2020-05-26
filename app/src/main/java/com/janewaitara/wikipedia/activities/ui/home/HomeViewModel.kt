@@ -1,4 +1,4 @@
-package com.janewaitara.wikipedia.ui.home
+package com.janewaitara.wikipedia.activities.ui.home
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

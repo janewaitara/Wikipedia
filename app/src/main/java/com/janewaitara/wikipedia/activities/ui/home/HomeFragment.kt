@@ -1,4 +1,4 @@
-package com.janewaitara.wikipedia.ui.home
+package com.janewaitara.wikipedia.activities.ui.home
 
 import android.os.Bundle
 import android.view.LayoutInflater

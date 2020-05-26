@@ -1,4 +1,4 @@
-package com.janewaitara.wikipedia.ui.dashboard
+package com.janewaitara.wikipedia.activities.ui.dashboard
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

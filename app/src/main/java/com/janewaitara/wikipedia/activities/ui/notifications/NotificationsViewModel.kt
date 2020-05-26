@@ -1,4 +1,4 @@
-package com.janewaitara.wikipedia.ui.notifications
+package com.janewaitara.wikipedia.activities.ui.notifications
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
